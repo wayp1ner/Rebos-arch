@@ -55,11 +55,12 @@ items = [
   "tmux",
   "ttf-fira-code",
   "ttf-nerd-fonts-symbols",
+  "hyprland-preview-share-picker-git"
   "udiskie",
   "waybar",
   "wireplumber",
   "wl-clipboard",
-  "xdg-desktop-portal-wlr",
+  "xdg-desktop-portal-hyprland",
   "xorg-xwayland",
   "zsh"
 ]
