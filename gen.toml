@@ -55,7 +55,7 @@ items = [
   "tmux",
   "ttf-fira-code",
   "ttf-nerd-fonts-symbols",
-  "hyprland-preview-share-picker-git"
+  "hyprland-preview-share-picker-git",
   "udiskie",
   "waybar",
   "wireplumber",
